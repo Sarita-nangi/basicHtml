@@ -1,0 +1,39 @@
+.navbar ul{
+    background-color:gray;
+    padding:0%;
+    margin: 0%;
+    list-style-type:none;
+    overflow:hidden;
+  
+}
+.navbar a{
+    color:white;
+    text-decoration:none;
+    display:block;
+    text-align:center;
+    padding:10px;
+
+}
+.navbar a:hover{
+    background-color:rgb(184, 41, 41);
+}
+.navbar li{
+    float:right;
+}
+marquee{
+    background-color:yellow;
+    color:green;
+}
+.img {
+    background-color:rgb(255, 213, 236);
+    max-width: 100%;  /* Ensures the image doesn't exceed its container's width */
+    height: auto;     /* Adjusts the height according to the image aspect ratio */
+    display: block;   /* Removes any gaps below the image */
+    text-align:center;
+
+}
+.table{
+   
+    background-color:plum;
+  
+}
